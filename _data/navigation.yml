@@ -1,33 +1,36 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# 导航栏设置（`_data/navigation.yml`）
 
+> 用模板建好仓库后，编辑 `_data/navigation.yml`，把 `main:` 下内容替换为下面这份（删掉不需要的 Teaching / Portfolio）。
+
+```yaml
 main:
+  - title: "About"
+    url: /
   - title: "Publications"
     url: /publications/
-
+  - title: "闲谈"
+    url: /essays/
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+    url: /talks/
+  - title: "News & Notes"
     url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "中文"
+    url: /zh/
+  - title: "Français"
+    url: /fr/
+```
+
+> 「闲谈」栏目：新建页面 `_pages/essays.html`（内容见 `site_content/essays_page.md`），并在 `_essays/` 目录放随笔条目（课程论文、杂文等，见 `site_content/essay_entries/`）。
+
+> **语言切换机制**：`/` 是英文默认首页；`/zh/`、`/fr/` 分别是中文、法语版（对应新建的 `_pages/about_zh.md`、`about_fr.md`）。导航栏始终显示三个语言入口，点击即整页跳转（类似维基百科）。
+> 说明：`About` 一项可保留也可删——`/` 本来就是"关于我"页。
+
+## 需要新建的两个页面文件
+
+在 `_pages/` 目录新建：
+- `about_zh.md`（内容见 `site_content/about_zh.md`）
+- `about_fr.md`（内容见 `site_content/about_fr.md`）
+
+并把模板自带的 `_pages/about.md` 替换为 `site_content/about.md`。

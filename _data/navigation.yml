@@ -1,6 +1,10 @@
 main:
   - title: "About"
     url: /
+  - title: "中文"
+    url: /zh/
+  - title: "Français"
+    url: /fr/
   - title: "Publications"
     url: /publications/
   - title: "闲谈"
@@ -9,9 +13,3 @@ main:
     url: /talks/
   - title: "News & Notes"
     url: /year-archive/
-  - title: "CV"
-    url: /cv/
-  - title: "中文"
-    url: /zh/
-  - title: "Français"
-    url: /fr/

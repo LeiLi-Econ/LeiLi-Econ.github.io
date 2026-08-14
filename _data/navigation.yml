@@ -1,4 +1,3 @@
-```yaml
 main:
   - title: "About"
     url: /
@@ -16,4 +15,3 @@ main:
     url: /zh/
   - title: "Français"
     url: /fr/
-```

@@ -6,7 +6,7 @@ author_profile: true
 
 # Lei Li
 
-**Curriculum Vitae :** [English CV](https://LeiLi-Econ.github.io/files/Lei_Li_CV_EN.pdf) · [中文简历](https://LeiLi-Econ.github.io/files/Lei_Li_CV_CN.pdf) · [Français CV](https://LeiLi-Econ.github.io/files/Lei_Li_CV_FR.pdf)
+**Curriculum Vitae (14/8/2026):** [English CV](https://LeiLi-Econ.github.io/files/Lei_Li_CV_EN.pdf) · [中文简历](https://LeiLi-Econ.github.io/files/Lei_Li_CV_CN.pdf) · [Français CV](https://LeiLi-Econ.github.io/files/Lei_Li_CV_FR.pdf)
 
 Je suis étudiant en master d'**économie théorique** à l'École d'économie et de gestion de l'Université de Nanchang. Mes recherches se situent à l'intersection de **l'économie de l'environnement, de l'économie numérique et du développement durable (ESG)**.
 

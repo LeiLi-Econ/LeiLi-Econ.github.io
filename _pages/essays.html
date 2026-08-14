@@ -6,3 +6,7 @@ author_profile: true
 ---
 
 课程论文、随笔与其他文章。这里的内容更松弛一些，欢迎随便翻翻。
+
+{% for post in site.essays reversed %}
+  {% include archive-single.html %}
+{% endfor %}

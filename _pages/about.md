@@ -9,6 +9,8 @@ redirect_from:
 
 # Lei Li
 
+**Curriculum Vitae:** [English](https://LeiLi-Econ.github.io/files/Lei_Li_CV_EN.pdf) · [中文](https://LeiLi-Econ.github.io/files/Lei_Li_CV_CN.pdf) · [Français](https://LeiLi-Econ.github.io/files/Lei_Li_CV_FR.pdf)
+
 I am an M.A. student in **Theoretical Economics** at the School of Economics and Management, Nanchang University. My research interests lie at the intersection of **environmental economics, digital economics, and ESG/sustainable development**.
 
 I study how digitalization—through digital trade, digital infrastructure, and digital government—shapes pollution–carbon co-control, green total factor productivity, and firm behavior. My work has appeared in *Socio-Economic Planning Sciences*, *Environment, Development and Sustainability*, and *Energy Strategy Reviews*.

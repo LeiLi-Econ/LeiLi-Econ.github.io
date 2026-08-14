@@ -7,9 +7,7 @@ main:
     url: /fr/
   - title: "Publications"
     url: /publications/
-  - title: "闲谈"
+  - title: "Thoughts"
     url: /essays/
-  - title: "Talks"
-    url: /talks/
-  - title: "News & Notes"
+  - title: "Notes"
     url: /year-archive/

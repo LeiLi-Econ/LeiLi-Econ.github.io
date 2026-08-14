@@ -37,3 +37,17 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* =====================================================
+ * 自定义样式（Lei Li 主页）
+ * ===================================================== */
+
+/* 头像：圆角矩形 + 边框 + 放大
+ * 想调：border-radius 越大越圆（0=直角，50%=正圆）；max-width 调大小 */
+.author__avatar img {
+  border-radius: 8px !important;         /* 8px 圆角矩形 */
+  border: 2px solid #c8c8c8 !important;  /* 细浅灰边框 */
+  padding: 3px !important;               /* 边框与照片的留白 */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.12) !important;
+  max-width: 150px !important;           /* 放大到头像（原主题更小） */
+}

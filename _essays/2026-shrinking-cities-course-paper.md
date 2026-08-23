@@ -1,18 +1,14 @@
 ---
-title: "制度驱动型资本深化：收缩城市产业承接与绿色悖论"
+title: "Institution-Driven Capital Deepening: Industrial Relocation and the Emissions Paradox in Shrinking Cities"
 collection: essays
 permalink: /essays/2026-shrinking-cities-course-paper
-excerpt: '南昌大学「生态经济与可持续发展」课程论文：人口外流并未带来碳减排——是选择效应；制度驱动型资本深化使工业碳排放维持在高出市场均衡的水平。'
+excerpt: 'A course paper for "Ecological Economics and Sustainable Development" at Nanchang University: population outflow does not deliver carbon reduction — the effect is selection; institution-driven capital deepening keeps industrial emissions above the market equilibrium.'
 date: 2026-06-10
 ---
 
-这是“生态经济与可持续发展”的课程论文，中文写作。原本并不打算做这个话题，但在检查数据时意外发现，一些人口净流出地区的碳排放量不仅没有下降，反而呈现出上升的趋势，这似乎与“人口流失 -> (生活排放降低 + 产业外流） -> 排放总量下降“的逻辑不符，因此或许值得一些讨论。但由于只是一篇课程论文，当时手里也同时在忙好几项事情，并没有将这篇文章展开。后面可能会将这篇文章进一步完善并翻译。
+This is a course paper for "Ecological Economics and Sustainable Development", written in Chinese. I did not plan to work on this topic at first, I was working on another topic, while checking the data, I found something unexpected: carbon emissions in some net population-outflow regions were not declining but actually rising. This runs against the usual "population outflow → (lower consumption emissions + industrial relocation) → lower aggregate emissions" logic chain, so I thought the puzzle deserved some discussion. Since it was only a course paper and I was busy with several other projects at the time, I did not expand it further. I may develop it into a fuller paper later.
 
-**[下载 PDF](https://LeiLi-Econ.github.io/files/shrinking-cities-green-paradox-course-paper.pdf)**
-
-## 摘要
-
-尽管人口作为消费端排放的行为主体，以及生产端排放的关键调节因素，经验数据显示人口流失引致经济收缩型被动碳减排的直觉可能并不可靠。 进入人口负增长时代， 这一问题具有更加广泛的研究价值。 本文利用 2003 至 2024 年 297 个中国地级市面板数据对这一逻辑进行了检验。 结果表明， 人口净流出城市的碳排放总量仅仅由于选择效应而显著低于净流入城市， 人口外流本身对碳排放轨迹无明确影响。 机制分析揭示了一项反市场直觉的作用路径： 人口外流城市不仅没有经历去工业化， 反而实现并维持了以更高固定资产投资增速和投资率为表征的产业转移承接， 背后的资本替代过程由财政转移支付、 地方晋升激励、 国企战略投资共同塑造的制度驱动型资本深化提供， 从而使工业碳排放水平维持在了高于市场均衡的水平。 本文结论揭示了制度因素在中国经济运作中的独特作用和关键生态位置， 并且挑战了人口外流导致去工业化的机械叙事， 为统筹人口空间重构与 “双碳” 战略差异化落地提供了经验证据与参考。
+**[View PDF](https://LeiLi-Econ.github.io/files/shrinking-cities-green-paradox-course-paper.pdf)**
 
 ## Abstract
 

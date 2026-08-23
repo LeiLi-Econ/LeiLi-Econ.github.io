@@ -6,7 +6,6 @@ permalink: /publication/2026-digitalization-green-innovation
 excerpt: 'Digitalization, endowment-structure upgrading and green innovation in China’s ecological function zones. In press, Economic Change and Restructuring.'
 date: 2026-01-15
 venue: 'Economic Change and Restructuring (in press)'
-paperurl: ''
 citation: 'Li, L., et al. (2026). How digitalization unleashes endowment advantages for green innovation: Evidence from China’s county-level panel data. <i>Economic Change and Restructuring</i>, in press.'
 ---
 

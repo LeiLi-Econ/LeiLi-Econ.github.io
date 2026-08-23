@@ -17,6 +17,8 @@ I study how digitalization—through digital trade, digital infrastructure, and 
 
 I use English for my academic work and am currently learning French. I am preparing applications for Ph.D. programs in economics based in Shanghai, France, the UK, Australia, New Zealand and Canada.
 
+Please find the Chinese and French version below.
+
 ## Research interests
 
 - Environmental economics
@@ -59,7 +61,7 @@ I use English for my academic work and am currently learning French. I am prepar
 
 ---
 
-## Version française
+## Française
 
 Je suis étudiant en master d'**économie théorique** à l'École d'économie et de gestion de l'Université de Nanchang. Mes recherches se situent à l'intersection de **l'économie de l'environnement, de l'économie numérique et du développement durable (ESG)**.
 

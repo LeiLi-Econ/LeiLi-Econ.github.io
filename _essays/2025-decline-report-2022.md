@@ -2,7 +2,7 @@
 title: "Decline Report 2022: Paths, Distribution, and Deflation"
 collection: essays
 permalink: /essays/2025-decline-report-2022
-excerpt: "An essay written in Chinese in July 2025 and translated into English by the author. It reads China's deflationary episode since the third quarter of 2022 as a structural crisis: a weak consumption base built on the demographic dividend, export- and investment-led growth, land finance, and local implicit debt, together with a financial bubble, form a deflationary spiral. The argument is supported by a fixed-effects regression on 77 economies (2011–2021) and a heterogeneous-household three-sector New Keynesian DSGE policy simulation."
+excerpt: "China's deflationary episode since the third quarter of 2022 as a structural crisis: a weak consumption base built on the demographic dividend, export- and investment-led growth, land finance, and local implicit debt, together with a financial bubble, form a deflationary spiral. The argument is supported by a fixed-effects regression on 77 economies (2011–2021) and a heterogeneous-household three-sector New Keynesian DSGE policy simulation."
 date: 2025-07-16
 ---
 

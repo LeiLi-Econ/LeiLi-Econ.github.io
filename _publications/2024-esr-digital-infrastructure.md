@@ -3,7 +3,7 @@ title: "Regional digital infrastructure and carbon neutrality: A technology–st
 collection: publications
 category: manuscripts
 permalink: /publication/2024-esr-digital-infrastructure
-excerpt: 'Digital infrastructure and carbon neutrality from a technology–structure–efficiency perspective. Open access.'
+excerpt: 'My first paper, it discusses whether and how digitalization infrastructure itself could boost carbon neutralization via a classical DiD framework.'
 date: 2024-11-02
 venue: 'Energy Strategy Reviews'
 paperurl: 'https://LeiLi-Econ.github.io/files/esr-digital-infrastructure-carbon-neutrality.pdf'

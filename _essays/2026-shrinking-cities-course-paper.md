@@ -8,7 +8,9 @@ date: 2026-06-10
 
 This is a course paper for "Ecological Economics and Sustainable Development", written in Chinese. I did not plan to work on this topic at first, I was working on another topic, while checking the data, I found something unexpected: carbon emissions in some net population-outflow regions were not declining but actually rising. This runs against the usual "population outflow → (lower consumption emissions + industrial relocation) → lower aggregate emissions" logic chain, so I thought the puzzle deserved some discussion. Since it was only a course paper and I was busy with several other projects at the time, I did not expand it further. I may develop it into a fuller paper later.
 
-**[View PDF](https://LeiLi-Econ.github.io/files/shrinking-cities-green-paradox-course-paper.pdf)**
+**[The original PDF](https://LeiLi-Econ.github.io/files/shrinking-cities-green-paradox-course-paper.pdf)**
+
+For your convenience, I provide an AI-translated English version here, please mind that AI translation doesn't ensure 100% accuracy: [English version](https://LeiLi-Econ.github.io/files/shrinking-cities-green-paradox-course-paper-en.pdf)
 
 ## Abstract
 

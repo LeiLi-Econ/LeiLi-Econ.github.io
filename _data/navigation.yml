@@ -1,12 +1,10 @@
 main:
   - title: "About"
     url: /
-  - title: "中文"
-    url: /zh/
-  - title: "Français"
-    url: /fr/
   - title: "Publications"
     url: /publications/
+  - title: "Working Papers"
+    url: /working-papers/
   - title: "Thoughts"
     url: /essays/
   - title: "News"

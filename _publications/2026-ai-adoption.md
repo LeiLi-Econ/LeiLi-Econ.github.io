@@ -6,7 +6,6 @@ permalink: /publication/2026-ai-adoption
 excerpt: 'A multi-dimensional AI-adoption index and asymmetric effects on the extensive and intensive margins of firm internationalization. Target: World Development (not yet submitted).'
 date: 2026-06-01
 venue: 'Working paper (target: World Development)'
-paperurl: ''
 citation: 'Li, L., & Chen, Y. (2026). The Reach and Limits of AI-Adoption: Asymmetric Effects on Firm Internationalization. Working paper.'
 ---
 

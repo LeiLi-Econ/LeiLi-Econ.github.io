@@ -3,14 +3,14 @@ title: "Stimulate synergistic efficiency of pollution-carbon co-control in the d
 collection: publications
 category: manuscripts
 permalink: /publication/2026-seps-digital-trade
-excerpt: 'How digital trade shapes the synergistic efficiency of pollution–carbon co-control in Chinese cities.'
+excerpt: 'The idea that international trade boosts technology spillovers is common knowledge, but this research argues that trade itself can cultivate a broader and more efficient economic network, which facilitates knowledge sharing, integration, and the optimization of factor allocation. These dividends contribute to a stronger regional innovation capability.'
 date: 2026-03-08
 venue: 'Socio-Economic Planning Sciences'
 paperurl: 'https://doi.org/10.1016/j.seps.2026.102474'
 citation: 'Zhou, F., Li, L., & Lee, C.-C. (2026). Stimulate synergistic efficiency of pollution-carbon co-control in the digital era: The role of digital trade in cities. <i>Socio-Economic Planning Sciences</i>, 105, 102474. https://doi.org/10.1016/j.seps.2026.102474'
 ---
 
-This paper grew out of my bachelor's thesis. It is a joint work with Professor Fengxiu Zhou, my undergraduate supervisor at Jiangxi Normal University (JXNU), and Chien-chiang Lee from Macau City University. Since I majored in international economics and trade as an undergraduate, I needed to work on a topic in international trade — which is how this paper came about.
+This paper grew out of my bachelor's thesis. It is a joint work with Professor Fengxiu Zhou, my undergraduate supervisor at Jiangxi Normal University (JXNU), and Professor Chien-chiang Lee from Macau City University. Since I majored in international economics and trade as an undergraduate, I needed to work on a topic in international trade — which is how this paper came about.
 
 The idea that international trade boosts technology spillovers is common knowledge, but this research argues that trade itself can cultivate a broader and more efficient economic network, which facilitates knowledge sharing, integration, and the optimization of factor allocation. These dividends contribute to a stronger regional innovation capability.
 

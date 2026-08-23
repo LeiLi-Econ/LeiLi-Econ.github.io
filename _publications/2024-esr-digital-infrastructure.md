@@ -7,7 +7,7 @@ excerpt: 'My first paper, it discusses whether and how digitalization infrastruc
 date: 2024-11-02
 venue: 'Energy Strategy Reviews'
 paperurl: 'https://doi.org/10.1016/j.esr.2024.101583'
-citation: 'Zhou, F., Li, L., & Wen, H. (2024). Regional digital infrastructure and carbon neutrality: A technology–structure–efficiency perspective. <i>Energy Strategy Reviews</i>, 56, 101583.'
+citation: 'Zhou, F., Li, L., & Wen, H. (2024). Regional digital infrastructure and carbon neutrality: A technology–structure–efficiency perspective. <i>Energy Strategy Reviews</i>, 56, 101583. https://doi.org/10.1016/j.esr.2024.101583'
 ---
 This is my first academic paper, and it was also my first formal training in economics. I was in my sixth semester of undergraduate study at the time, and I spent most of my energy learning and practicing standard econometric techniques and Stata programming. Debugging `do` scripts and picking up the data skills I needed took up much of my remaining time at Jiangxi Normal University. Through this exploration, I learned how to run difference-in-differences designs and panel-data analysis, along with some fundamental concepts of the field. That experience laid the foundation for my future research.
 

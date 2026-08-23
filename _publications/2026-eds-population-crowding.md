@@ -3,7 +3,7 @@ title: "Population crowding and emission pressure: A scale–structure–distrib
 collection: publications
 category: manuscripts
 permalink: /publication/2026-eds-population-crowding
-excerpt: 'A scale–structure–distribution decomposition of the demography–GHG nexus.'
+excerpt: 'My first exploration into the economic consequences of spatial structure. Besides age structure and scale, the spatial structure of population agglomeration also matters. Spatially balanced economic opportunity is not only a social justice agenda, but also the key to an inclusive and sustainable future.'
 date: 2026-03-07
 venue: 'Environment, Development and Sustainability'
 paperurl: 'https://doi.org/10.1007/s10668-026-07551-7'

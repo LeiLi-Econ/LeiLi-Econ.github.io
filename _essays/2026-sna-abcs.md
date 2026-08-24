@@ -1,5 +1,5 @@
 ---
-title: "Note: The ABCs of Social Network Analysis"
+title: "Study Notes: The ABCs of Social Network Analysis"
 collection: essays
 permalink: /essays/2026-sna-abcs
 excerpt: 'A beginner-friendly note on social network analysis: adjacency matrices and connection tables, four classic centrality measures, and a step-by-step walkthrough of a real SNA study on collaboration patterns among Chinese economists.'

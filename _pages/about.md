@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lei Li / Ray Lee"
+title: "Lei Li - M.A. in Economics"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,78 +8,32 @@ redirect_from:
   - /zh/
   - /fr/
 ---
+Click the links to view my CV in PDF:
 
-**Curriculum Vitae (14/8/2026):** [English](https://LeiLi-Econ.github.io/files/Lei_Li_CV_EN.pdf) · [中文](https://LeiLi-Econ.github.io/files/Lei_Li_CV_CN.pdf) · [Français](https://LeiLi-Econ.github.io/files/Lei_Li_CV_FR.pdf)
-
-I am an M.A. student in **Theoretical Economics** at the School of Economics and Management, Nanchang University. My research interests lie at the intersection of **environmental economics, digital economics, and ESG/sustainable development**.
-
-I study how digitalization—through digital trade, digital infrastructure, and digital government—shapes pollution–carbon co-control, green total factor productivity, and firm behavior. My work has appeared in *Socio-Economic Planning Sciences*, *Environment, Development and Sustainability*, and *Energy Strategy Reviews*.
-
-I use English for my academic work and am currently learning French. I am preparing applications for Ph.D. programs in economics based in Shanghai, France, the UK, Australia, New Zealand and Canada.
-
-Please find the Chinese and French version below.
-
-## Research interests
-
-- Environmental economics
-- Digital economics
-- ESG and sustainable development
-- Urban spatial structure and welfare
-- Digitalization and green development
-
-## Research skills
-
-- Econometrics: causal inference (difference-in-differences, event studies, instrumental variables) and panel-data methods — Stata, R
-- Data analysis: data cleaning, descriptive analysis, and visualization — Stata, R, Python
-- Economic modelling: New Keynesian DSGE modelling with heterogeneous households
-- Skilled in AI agents, such as Claude Code and DeepSeek Harness, as well as other academic tools like LaTeX, Zotero, Obsidian, etc.
+**Curriculum Vitae:** [English](https://LeiLi-Econ.github.io/files/Lei_Li_CV_EN.pdf) · [中文](https://LeiLi-Econ.github.io/files/Lei_Li_CV_CN.pdf) · [Français](https://LeiLi-Econ.github.io/files/Lei_Li_CV_FR.pdf)
 
 ---
 
-## 中文
+I am currently an M.A. student in **theoretical economics** at Nanchang University. I graduated from Jiangxi Normal University and have a B.A. in **international economics and trade**.
 
-我是李磊，南昌大学经济管理学院**理论经济学**专业硕士研究生，本科毕业于江西师范大学经济与管理学院国贸系。研究兴趣集中于**环境经济学、数字经济学与 ESG 可持续发展**的交叉领域。
+I've been doing economic research since my junior year in college. My work sits at the intersection of **sustainable development and digitalization**, and I'm looking forward to incorporating spatial structure into my future research on sustainability. I have **published five papers** in SSCI/SCI journals such as *Socio-Economic Planning Sciences* and *Energy Strategy Reviews*. I also have several working papers in progress.
 
-我关注数字化（数字贸易、数字基础设施、数字政府）如何影响减污降碳协同、绿色全要素生产率与企业行为，相关成果发表于 *Socio-Economic Planning Sciences*、*Environment, Development and Sustainability*、*Energy Strategy Reviews* 等SCI/SSCI期刊。
+I speak and work in English and Mandarin Chinese, and I recently started learning French. I'm proficient in formal economic analysis and in multiple econometric methodologies, which include panel data analysis, DiD design, double machine learning, structural equation modelling, time series forecasting, spatial regression, and social network analysis. I can also conduct general equilibrium modelling and DSGE simulation. 
 
-目前正在筹备国内外经济学博士项目申请。
+I expect to complete my master's degree in June 2028. I would like to continue developing my research agenda in a PhD program. 
 
-### 研究方向
+## Research agenda
 
-- 环境经济学
-- 数字经济学
-- ESG 与可持续发展
-- 城市空间格局与福利
-- 数字化与绿色发展
+My long-term agenda centers on a single theme: **economic efficiency, sustainability and inclusiveness in transitions**. I organize my work around three topics:
 
-### 研究技能
-
-- 计量经济学：因果推断（双重差分、事件研究、工具变量）与面板数据方法——Stata、R
-- 数据分析：数据清洗、描述性分析与可视化——Stata、R、Python
-- 经济建模：新凯恩斯 DSGE 建模（异质性家庭）
-- 熟练运用 AI agent 工具（如 Claude Code、DeepSeek Harness）以及 LaTeX、Zotero、Obsidian 等学术工具
+1. **Digitalization and Green Development** — how digital trade, infrastructure, and e‑government enhance green transition and GTFP, with a focus on technology‑structure‑efficiency pathways and institutional innovation.
+2. **Digitalization and Firm Behavior** — how digital transformation changes firms' access to resources, incentives, and environmental behavior.
+3. **Demographic Dynamics and Environmental Sustainability** — how demographic and spatial change reshapes resource allocation, environmental pressure, and how spatial agglomeration affects regional welfare and inclusive growth.
 
 ---
 
-## Française
+## Je m'intéresse particulièrement aux universités françaises !
 
-Je suis étudiant en master d'**économie théorique** à l'École d'économie et de gestion de l'Université de Nanchang. Mes recherches se situent à l'intersection de **l'économie de l'environnement, de l'économie numérique et du développement durable (ESG)**.
+Ma formation en économie m'a progressivement conduit vers une approche quantitative, fondée sur l'économétrie et l'analyse empirique. Je considère toutefois que la rigueur quantitative gagne à être complétée par une sensibilité plus large aux institutions, aux structures sociales et à l'histoire des idées. C'est ce qui m'attire dans la tradition française des sciences sociales : à travers mes lectures en économie, en sociologie, en philosophie, en science politique et en histoire de la pensée, j'ai été marqué par la profondeur et la vitalité de cette tradition intellectuelle. Je souhaiterais découvrir cet environnement de l'intérieur et approfondir ma propre sensibilité intellectuelle en dialogue avec lui.
 
-J'étudie comment la numérisation—commerce numérique, infrastructures numériques, gouvernement numérique—façonne le co-contrôle de la pollution et du carbone, la productivité verte et le comportement des entreprises. Mes travaux ont été publiés dans *Socio-Economic Planning Sciences*, *Environment, Development and Sustainability* et *Energy Strategy Reviews*.
-
-Je peux travailler et vivre sans difficulté en anglais, et j'apprends actuellement le français — niveau A2, avec l'objectif d'atteindre B2 ou C1. Je prépare des candidatures de doctorat en économie, et je voudrais poursuivre mes études dans les grands établissements français, en particulier le système PSL et l'Institut Polytechnique de Paris.
-
-### Thèmes de recherche
-
-- Économie de l'environnement
-- Économie numérique
-- ESG et développement durable
-- Structure spatiale urbaine et bien-être
-- Numérisation et développement vert
-
-### Compétences
-
-- Économétrie : inférence causale (différences-en-différences, études d'événements, variables instrumentales), données de panel — Stata, R
-- Analyse de données : nettoyage, analyse descriptive, visualisation — Stata, R, Python
-- Modélisation économique : modélisation DSGE néo-keynésienne (ménages hétérogènes)
-- Maîtrise des agents IA, tels que Claude Code et DeepSeek Harness, ainsi que d'autres outils académiques comme LaTeX, Zotero, Obsidian, etc.
+Étudier en France serait donc pour moi moins une question de formation technique que l'occasion de compléter ma formation quantitative par une compréhension plus large des questions sociales auxquelles l'économie cherche à répondre.

@@ -1,12 +1,13 @@
 ---
 title: "How Digitalization Unleashes Endowment Advantages for Green Innovation: Evidence from China's county-level panel data"
 collection: publications
-category: workingpapers
+category: manuscripts
 permalink: /publication/2026-digitalization-green-innovation
-excerpt: 'Integrating New Structural Economics and Innovation System Theory to analyse the green endowment suppression in ecological functional areas, a two-way convergence on the innovation supply paradigm is the key. In press, Economic Change and Restructuring.'
-date: 2026-01-15
-venue: 'Economic Change and Restructuring (in press)'
-citation: 'Wen, H. & Li, L. (2026). How digitalization unleashes endowment advantages for green innovation: Evidence from China’s county-level panel data. <i>Economic Change and Restructuring</i>, in press.'
+excerpt: 'Integrating New Structural Economics and Innovation System Theory to analyse the green endowment suppression in ecological functional areas, a two-way convergence on the innovation supply paradigm is the key.'
+date: 2026-09-07
+venue: 'Economic Change and Restructuring'
+paperurl: 'https://doi.org/10.1007/s10644-026-10067-9'
+citation: 'Wen, H. & Li, L. (2026). How digitalization unleashes endowment advantages for green innovation: Evidence from China’s county-level panel data. <i>Economic Change and Restructuring</i>, 59, Article 120. https://doi.org/10.1007/s10644-026-10067-9'
 ---
 
 ## Motivation
@@ -16,8 +17,10 @@ Because the comparison and dynamic evolution of factor structures are involved, 
 
 The reviewers' comments on statistical and econometric details also taught me a lot about the relevant theory and some ingenious tests and solutions. This paper is the first research in which I truly felt the character of "theoretical economics".
 
-## Current status
-This paper has already been accepted by *Economic Change and Restructuring*, and is currently in press.
+## Published
+This paper is now officially published in *Economic Change and Restructuring*, 59, Article 120 (2026), first online on 7 September 2026.
+
+Please visit the publisher's site to access the full content: [https://doi.org/10.1007/s10644-026-10067-9](https://doi.org/10.1007/s10644-026-10067-9). A view-only full-text version is freely available for sharing via Springer Nature SharedIt: [https://rdcu.be/GMgL8mMr2h5a](https://rdcu.be/GMgL8mMr2h5a).
 
 ## Abstract
 Sufficient supply of green technologies is the vital path for the sustainable development of ecological conservation areas. Although these areas have abundant ecological endowment, their comparative advantages are suppressed due to a mismatch between the endowment structure and the prevailing innovation paradigm. On the basis of innovation system theory, this study incorporates the endogenous structural evolution perspective from new structural economics to examine how digitalization alleviates this mismatch. Using panel data of China’s ecological function zones (EFZs) from 2012 to 2023, empirical results have shown a mutual convergence dynamic: digitalization effectively accelerates the upgrading of the local endowment structure to meet the traditional innovation paradigm; it also alters the innovation supply paradigm by activating digital-green synergy and stimulating inter-regional innovation market networks. A proactive government could amplify this effect through digital-powered environmental regulation. The heterogeneity findings indicate that the impact of digitalization on green technological innovation is related not only to socioeconomic factors but also to the abundance of local ecological endowment, which shapes the digital application scenarios. These findings highlight the broader effect of digitalization on long-term economic evolution and innovation paradigm shifts, offering insights for latecomer economies pursuing green development.

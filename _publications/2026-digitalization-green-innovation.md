@@ -25,4 +25,18 @@ Please visit the publisher's site to access the full content: [https://doi.org/1
 ## Abstract
 Sufficient supply of green technologies is the vital path for the sustainable development of ecological conservation areas. Although these areas have abundant ecological endowment, their comparative advantages are suppressed due to a mismatch between the endowment structure and the prevailing innovation paradigm. On the basis of innovation system theory, this study incorporates the endogenous structural evolution perspective from new structural economics to examine how digitalization alleviates this mismatch. Using panel data of China’s ecological function zones (EFZs) from 2012 to 2023, empirical results have shown a mutual convergence dynamic: digitalization effectively accelerates the upgrading of the local endowment structure to meet the traditional innovation paradigm; it also alters the innovation supply paradigm by activating digital-green synergy and stimulating inter-regional innovation market networks. A proactive government could amplify this effect through digital-powered environmental regulation. The heterogeneity findings indicate that the impact of digitalization on green technological innovation is related not only to socioeconomic factors but also to the abundance of local ecological endowment, which shapes the digital application scenarios. These findings highlight the broader effect of digitalization on long-term economic evolution and innovation paradigm shifts, offering insights for latecomer economies pursuing green development.
 
+**Fig. 3.** Conceptual framework.
+
+![Fig. 3](https://LeiLi-Econ.github.io/images/ecr-fig3-conceptual-framework.jpg)
+
+**Fig. 4.** The NSE perspective & the EFZ context.
+
+![Fig. 4](https://LeiLi-Econ.github.io/images/ecr-fig4-nse-efz-context.jpg)
+
+**Fig. 5.** The mutual convergence process.
+
+<img src="https://LeiLi-Econ.github.io/images/ecr-fig5-mutual-convergence.jpg" alt="Fig. 5" style="width:72%; height:auto; display:block; margin:0 auto;">
+
+Figures 3–5 are reproduced from the published article (Wen & Li, 2026, *Economic Change and Restructuring*, 59, Article 120).
+
 This is an early version of this paper circulated as "Digital Driven Green Productivity" ([PDF](https://LeiLi-Econ.github.io/files/digitalization-green-innovation-early.pdf)).
